@@ -1,0 +1,8 @@
+python detect.py --input input/horses.jpg
+
+python detect.py --input input/people.jpg
+
+python detect.py --input input/people.jpg --min-size 1024
+
+python detect.py --input input/street.jpg
+
